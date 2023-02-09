@@ -1,0 +1,12 @@
+C:\Users\whysh\source\repos\Button\Button\bin\Debug\Button.exe.config
+C:\Users\whysh\source\repos\Button\Button\bin\Debug\Button.exe
+C:\Users\whysh\source\repos\Button\Button\bin\Debug\Button.pdb
+C:\Users\whysh\source\repos\Button\Button\bin\Debug\Button.xml
+C:\Users\whysh\source\repos\Button\Button\obj\Debug\Button.vbproj.AssemblyReference.cache
+C:\Users\whysh\source\repos\Button\Button\obj\Debug\Button.Resources.resources
+C:\Users\whysh\source\repos\Button\Button\obj\Debug\Button.vbproj.GenerateResource.cache
+C:\Users\whysh\source\repos\Button\Button\obj\Debug\Button.vbproj.CoreCompileInputs.cache
+C:\Users\whysh\source\repos\Button\Button\obj\Debug\Button.exe
+C:\Users\whysh\source\repos\Button\Button\obj\Debug\Button.xml
+C:\Users\whysh\source\repos\Button\Button\obj\Debug\Button.pdb
+C:\Users\whysh\source\repos\Button\Button\obj\Debug\Button.button.resources
